@@ -1,2 +1,48 @@
-
 /* Your CSS Code here. */
+
+/* .mycont
+{
+    border: 5px solid pink;
+    background: rgb(38, 7, 7);
+} */
+
+html
+{
+    margin-top: 10px;
+}
+
+.myrow
+{
+    border: 5px solid pink;
+    background: rgb(38, 7, 7);
+}
+
+.r1c1
+{
+    background-color: teal;
+}
+
+.r1c2
+{
+    background-color: lightpink;
+}
+
+.r2c1
+{
+    background-color:tomato;
+}
+
+.r2c2
+{
+    background-color: cyan;
+}
+
+.r3c1
+{
+    background-color: palevioletred;
+}
+
+.r3c2
+{
+    background-color: greenyellow;
+}
